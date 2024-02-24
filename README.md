@@ -1,4 +1,4 @@
-# GALXE KYC LINK EXTRACTOR
+# GALXE KYC AIO
 
 Written by: @hvrsh (TG)
 
@@ -6,7 +6,7 @@ Channel: https://t.me/hashvers
 
 ---
 
-**Automation on BAS for obtaining KYC links on Galxe PASS**
+**Automation on BAS for PASS making on Galxe**
 
 **Setup when launching `phantom_aio.xml`:**
 
@@ -26,11 +26,17 @@ Channel: https://t.me/hashvers
  **Results**
 
  `url_list.txt` - results. The link remains active for about 12 hours.
+
+ `address_with_pass_list.txt` - addresses where Passport already exists.
+
+ `pass_list.txt` - passwords for Passports.
+
+ `small_bal_list.txt` - accounts that do not have enough balance for minting.
  
 
 ---
 
-**Автоматизация на БАСе получения KYC-ссылок на Galxe PASS**
+**Автоматизация на БАСе получения Паспортов на Galxe**
 
 **Настройка при запуске `phantom_aio.xml`:**
 
@@ -50,3 +56,9 @@ Channel: https://t.me/hashvers
  **Результаты**
 
  `url_list.txt` - результаты. Ссылка остается рабочей около 12 часов.
+
+ `address_with_pass_list.txt` адреса где уже есть Паспорт.
+
+ `pass_list.txt` - пароли к Паспортам.
+
+ `small_bal_list.txt` - аккаунты которым не хватит баланса для минта.
