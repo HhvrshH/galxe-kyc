@@ -2269,7 +2269,7 @@ Restart=true
 UseHumanLikeMouseMoves=true
 DebugToolbox=false
 DebugScenario=false
-Languages=&quot;Node,18.10.0&quot;
+Languages=&quot;&quot;
 Modules=&quot;Node,18.10.0,useragentsdata,*&quot;
 Helper=&quot;disable&quot;
 Canvas=&quot;enable&quot;
@@ -2295,17 +2295,15 @@ Detector=true
      <ModulesMetaJson>{
     &quot;Archive&quot;: false,
     &quot;CapSolver&quot;: false,
-    &quot;CaptchaImageClick&quot;: false,
     &quot;Checksum&quot;: false,
     &quot;Excel&quot;: false,
     &quot;FTP&quot;: false,
-    &quot;FakePersonGenerator&quot;: false,
     &quot;FunCaptcha&quot;: false,
     &quot;HCaptcha&quot;: false,
     &quot;MailDeprecated&quot;: false,
     &quot;ProxyCustom&quot;: false,
-    &quot;ReCaptcha&quot;: true,
-    &quot;SMSpool&quot;: false,
+    &quot;ReCaptcha&quot;: false,
+    &quot;SMSpool&quot;: true,
     &quot;SQL&quot;: false,
     &quot;SmsReceive&quot;: false,
     &quot;curlImpersonate&quot;: false,
